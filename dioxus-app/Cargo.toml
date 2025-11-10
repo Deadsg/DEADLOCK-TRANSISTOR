@@ -14,32 +14,12 @@ serde_json = "*"
 dioxus = { version = "*", features = ["desktop"] }
 tokio = { version = "*", features = ["full"], optional = true }
 zeroize = "*"
-dioxus-desktop = "*"
-pyo3 = { version = "0.21.1", features = ["extension-module"], optional = true }
+dioxus-desktop = "0.7.0"
+pyo3 = { version = "*", features = ["extension-module"], optional = true }
 log = "*"
 env_logger = "*"
-solana-wallet-adapter = { path = "../../SolanaWalletAdapter-zos/crate" }
-
-[target.'cfg(not(target_arch = "wasm32"))'.dependencies]
-tokio = { version = "*", features = ["full"] }
-pyo3 = { version = "0.21.1", features = ["extension-module"] }
-
-
-
-[features]
-default = ["desktop"]
-web = ["dioxus/web"]
-desktop = ["dioxus/desktop"]
-mobile = ["dioxus/mobile"]
+wallet-adapter = { path = "C:/SolanaWalletAdapter-zos/crate" }
 
 [[bin]]
-name = "deadlock-net-dioxus-app"
+name = "deadlock-net-dioxus-app-bin"
 path = "src/main.rs"
-# optional: set required features for the binary
-required-features = ["desktop"]
-
-[env]
-PYO3_USE_ABI3_FORWARD_COMPATIBILITY = "1"
-
-[patch.crates-io]
-dioxus-desktop = { version = "0.7.0" }

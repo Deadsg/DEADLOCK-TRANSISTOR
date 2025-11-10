@@ -1,0 +1,9 @@
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app\target\debug\deps\dioxus_core_types-c1bfbdcb0dbd0a6b.d: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dioxus-core-types-0.7.1\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dioxus-core-types-0.7.1\src\bubbles.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dioxus-core-types-0.7.1\src\bundled.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dioxus-core-types-0.7.1\src\formatter.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dioxus-core-types-0.7.1\src\hr_context.rs
+
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app\target\debug\deps\libdioxus_core_types-c1bfbdcb0dbd0a6b.rmeta: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dioxus-core-types-0.7.1\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dioxus-core-types-0.7.1\src\bubbles.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dioxus-core-types-0.7.1\src\bundled.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dioxus-core-types-0.7.1\src\formatter.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dioxus-core-types-0.7.1\src\hr_context.rs
+
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dioxus-core-types-0.7.1\src\lib.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dioxus-core-types-0.7.1\src\bubbles.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dioxus-core-types-0.7.1\src\bundled.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dioxus-core-types-0.7.1\src\formatter.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dioxus-core-types-0.7.1\src\hr_context.rs:

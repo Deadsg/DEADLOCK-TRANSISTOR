@@ -1,0 +1,33 @@
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app\target\debug\deps\wallet_adapter-6d3f536a575270cc.d: C:\SolanaWalletAdapter-zos\crate\src\lib.rs C:\SolanaWalletAdapter-zos\crate\src\adapter.rs C:\SolanaWalletAdapter-zos\crate\src\errors.rs C:\SolanaWalletAdapter-zos\crate\src\commitment.rs C:\SolanaWalletAdapter-zos\crate\src\utils.rs C:\SolanaWalletAdapter-zos\crate\src\events.rs C:\SolanaWalletAdapter-zos\crate\src\constants.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\mod.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\version.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\wallet_icon.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\chains.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\wallet.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\wallet_account.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\mod.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\features.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\connect.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\disconnect.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\events.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\signin.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\sign_message.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\sign_tx.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\standard_fn.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\signin_standard\mod.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\signin_standard\input.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\signin_standard\output.rs C:\SolanaWalletAdapter-zos\crate\src\storage.rs C:\SolanaWalletAdapter-zos\crate\src\../..\README.md
+
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app\target\debug\deps\libwallet_adapter-6d3f536a575270cc.rmeta: C:\SolanaWalletAdapter-zos\crate\src\lib.rs C:\SolanaWalletAdapter-zos\crate\src\adapter.rs C:\SolanaWalletAdapter-zos\crate\src\errors.rs C:\SolanaWalletAdapter-zos\crate\src\commitment.rs C:\SolanaWalletAdapter-zos\crate\src\utils.rs C:\SolanaWalletAdapter-zos\crate\src\events.rs C:\SolanaWalletAdapter-zos\crate\src\constants.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\mod.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\version.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\wallet_icon.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\chains.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\wallet.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\wallet_account.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\mod.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\features.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\connect.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\disconnect.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\events.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\signin.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\sign_message.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\sign_tx.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\standard_fn.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\signin_standard\mod.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\signin_standard\input.rs C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\signin_standard\output.rs C:\SolanaWalletAdapter-zos\crate\src\storage.rs C:\SolanaWalletAdapter-zos\crate\src\../..\README.md
+
+C:\SolanaWalletAdapter-zos\crate\src\lib.rs:
+C:\SolanaWalletAdapter-zos\crate\src\adapter.rs:
+C:\SolanaWalletAdapter-zos\crate\src\errors.rs:
+C:\SolanaWalletAdapter-zos\crate\src\commitment.rs:
+C:\SolanaWalletAdapter-zos\crate\src\utils.rs:
+C:\SolanaWalletAdapter-zos\crate\src\events.rs:
+C:\SolanaWalletAdapter-zos\crate\src\constants.rs:
+C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\mod.rs:
+C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\version.rs:
+C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\wallet_icon.rs:
+C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\chains.rs:
+C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\wallet.rs:
+C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\wallet_account.rs:
+C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\mod.rs:
+C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\features.rs:
+C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\connect.rs:
+C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\disconnect.rs:
+C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\events.rs:
+C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\signin.rs:
+C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\sign_message.rs:
+C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\sign_tx.rs:
+C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\standard_features\standard_fn.rs:
+C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\signin_standard\mod.rs:
+C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\signin_standard\input.rs:
+C:\SolanaWalletAdapter-zos\crate\src\wallet_ser_der\signin_standard\output.rs:
+C:\SolanaWalletAdapter-zos\crate\src\storage.rs:
+C:\SolanaWalletAdapter-zos\crate\src\../..\README.md:
+
+# env-dep:CARGO_PKG_README=..\\README.md

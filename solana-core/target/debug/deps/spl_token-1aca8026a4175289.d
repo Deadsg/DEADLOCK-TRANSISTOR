@@ -1,0 +1,10 @@
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\solana-core\target\debug\deps\spl_token-1aca8026a4175289.d: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-5.0.2\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-5.0.2\src\error.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-5.0.2\src\instruction.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-5.0.2\src\native_mint.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-5.0.2\src\processor.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-5.0.2\src\state.rs
+
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\solana-core\target\debug\deps\libspl_token-1aca8026a4175289.rmeta: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-5.0.2\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-5.0.2\src\error.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-5.0.2\src\instruction.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-5.0.2\src\native_mint.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-5.0.2\src\processor.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-5.0.2\src\state.rs
+
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-5.0.2\src\lib.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-5.0.2\src\error.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-5.0.2\src\instruction.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-5.0.2\src\native_mint.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-5.0.2\src\processor.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-5.0.2\src\state.rs:

@@ -1,0 +1,64 @@
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+    Blocking waiting for file lock on package cache
+   0.824002300s  INFO prepare_target{force=false package_id=dead-api v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dead_api) target="dead_api"}: cargo::core::compiler::fingerprint: fingerprint error for dead-api v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dead_api)/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("dead_api", ["lib"], "C:\\Users\\deads\\OneDrive\\Documents\\AGI\\DEADLOCK-TRANSISTOR\\dead_api\\src\\lib.rs", Edition2021) }
+   0.824056200s  INFO prepare_target{force=false package_id=dead-api v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dead_api) target="dead_api"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dead_api\target\debug\.fingerprint\dead-api-a616af5e24c8b0c0\lib-dead_api`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.936677100s  INFO prepare_target{force=false package_id=dead-api v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dead_api) target="dead_api"}: cargo::core::compiler::fingerprint: fingerprint error for dead-api v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dead_api)/Check { test: true }/TargetInner { name_inferred: true, ..: lib_target("dead_api", ["lib"], "C:\\Users\\deads\\OneDrive\\Documents\\AGI\\DEADLOCK-TRANSISTOR\\dead_api\\src\\lib.rs", Edition2021) }
+   0.936706400s  INFO prepare_target{force=false package_id=dead-api v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dead_api) target="dead_api"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dead_api\target\debug\.fingerprint\dead-api-ad53c4e61270ba13\test-lib-dead_api`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+    Checking dead-api v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dead_api)
+error: could not compile `dead-api` (lib) due to 7 previous errors; 1 warning emitted
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `dead-api` (lib test) due to 7 previous errors; 1 warning emitted

@@ -1,0 +1,11 @@
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dead_api\target\debug\deps\borsh-acf8a83947c153df.d: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\de\mod.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\de\hint.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\schema.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\schema_helpers.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\ser\mod.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\ser\helpers.rs
+
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dead_api\target\debug\deps\libborsh-acf8a83947c153df.rmeta: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\de\mod.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\de\hint.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\schema.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\schema_helpers.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\ser\mod.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\ser\helpers.rs
+
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\lib.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\de\mod.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\de\hint.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\schema.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\schema_helpers.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\ser\mod.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\borsh-0.9.3\src\ser\helpers.rs:

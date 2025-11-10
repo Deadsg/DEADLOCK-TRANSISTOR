@@ -1,0 +1,11 @@
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app\target\debug\deps\slotmap-92057043a137e3a9.d: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\basic.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\dense.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\hop.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\secondary.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\sparse_secondary.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\util.rs
+
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app\target\debug\deps\libslotmap-92057043a137e3a9.rmeta: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\basic.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\dense.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\hop.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\secondary.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\sparse_secondary.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\util.rs
+
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\lib.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\basic.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\dense.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\hop.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\secondary.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\sparse_secondary.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\slotmap-1.0.7\src\util.rs:

@@ -1,0 +1,11 @@
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app\target\debug\deps\libc-b9568b35c4d6f12e.d: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\macros.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\new\mod.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\primitives.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\windows\mod.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\windows\msvc\mod.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\types.rs
+
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app\target\debug\deps\liblibc-b9568b35c4d6f12e.rmeta: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\macros.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\new\mod.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\primitives.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\windows\mod.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\windows\msvc\mod.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\types.rs
+
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\lib.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\macros.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\new\mod.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\primitives.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\windows\mod.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\windows\msvc\mod.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\libc-0.2.177\src\types.rs:

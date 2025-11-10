@@ -1,0 +1,10 @@
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dead_api\target\debug\deps\serde_bytes-7c7e6da80a8dafc3.d: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.19\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.19\src\bytearray.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.19\src\bytes.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.19\src\de.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.19\src\ser.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.19\src\bytebuf.rs
+
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dead_api\target\debug\deps\libserde_bytes-7c7e6da80a8dafc3.rmeta: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.19\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.19\src\bytearray.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.19\src\bytes.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.19\src\de.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.19\src\ser.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.19\src\bytebuf.rs
+
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.19\src\lib.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.19\src\bytearray.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.19\src\bytes.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.19\src\de.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.19\src\ser.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde_bytes-0.11.19\src\bytebuf.rs:

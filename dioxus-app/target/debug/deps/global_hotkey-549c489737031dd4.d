@@ -1,0 +1,9 @@
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app\target\debug\deps\global_hotkey-549c489737031dd4.d: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\global-hotkey-0.7.0\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\global-hotkey-0.7.0\src\error.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\global-hotkey-0.7.0\src\hotkey.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\global-hotkey-0.7.0\src\platform_impl\mod.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\global-hotkey-0.7.0\src\platform_impl\windows\mod.rs
+
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app\target\debug\deps\libglobal_hotkey-549c489737031dd4.rmeta: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\global-hotkey-0.7.0\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\global-hotkey-0.7.0\src\error.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\global-hotkey-0.7.0\src\hotkey.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\global-hotkey-0.7.0\src\platform_impl\mod.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\global-hotkey-0.7.0\src\platform_impl\windows\mod.rs
+
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\global-hotkey-0.7.0\src\lib.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\global-hotkey-0.7.0\src\error.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\global-hotkey-0.7.0\src\hotkey.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\global-hotkey-0.7.0\src\platform_impl\mod.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\global-hotkey-0.7.0\src\platform_impl\windows\mod.rs:

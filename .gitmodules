@@ -1,0 +1,4 @@
+[submodule "SolanaWalletAdapter-zos"]
+	path = SolanaWalletAdapter-zos
+	url = https://github.com/meta-introspector/SolanaWalletAdapter-zos
+	branch = no-template

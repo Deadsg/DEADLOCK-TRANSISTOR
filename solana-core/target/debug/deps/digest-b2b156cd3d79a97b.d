@@ -1,0 +1,11 @@
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\solana-core\target\debug\deps\digest-b2b156cd3d79a97b.d: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\digest.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\dyn_digest.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\errors.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\fixed.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\variable.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\xof.rs
+
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\solana-core\target\debug\deps\libdigest-b2b156cd3d79a97b.rmeta: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\digest.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\dyn_digest.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\errors.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\fixed.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\variable.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\xof.rs
+
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\lib.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\digest.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\dyn_digest.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\errors.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\fixed.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\variable.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\digest-0.9.0\src\xof.rs:

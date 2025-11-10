@@ -1,0 +1,11 @@
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dead_api\target\debug\deps\spl_token-5409ef386c14b22f.d: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\error.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\instruction.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\native_mint.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\processor.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\state.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\entrypoint.rs
+
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dead_api\target\debug\deps\libspl_token-5409ef386c14b22f.rmeta: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\error.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\instruction.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\native_mint.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\processor.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\state.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\entrypoint.rs
+
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\lib.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\error.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\instruction.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\native_mint.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\processor.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\state.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-9.0.0\src\entrypoint.rs:

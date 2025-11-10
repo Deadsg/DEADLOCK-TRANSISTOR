@@ -1,0 +1,9 @@
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dead_api\target\debug\deps\spl_token_interface-bca3f9a0a527efd0.d: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-interface-2.0.0\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-interface-2.0.0\src\error.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-interface-2.0.0\src\instruction.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-interface-2.0.0\src\native_mint.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-interface-2.0.0\src\state.rs
+
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dead_api\target\debug\deps\libspl_token_interface-bca3f9a0a527efd0.rmeta: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-interface-2.0.0\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-interface-2.0.0\src\error.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-interface-2.0.0\src\instruction.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-interface-2.0.0\src\native_mint.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-interface-2.0.0\src\state.rs
+
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-interface-2.0.0\src\lib.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-interface-2.0.0\src\error.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-interface-2.0.0\src\instruction.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-interface-2.0.0\src\native_mint.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\spl-token-interface-2.0.0\src\state.rs:

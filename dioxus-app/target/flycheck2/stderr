@@ -1,0 +1,116 @@
+   0.464487300s  INFO prepare_target{force=false package_id=Deadlock-net-dioxus-app v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app) target="Deadlock_net_dioxus_app"}: cargo::core::compiler::fingerprint: fingerprint error for Deadlock-net-dioxus-app v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app)/Check { test: false }/TargetInner { name_inferred: true, ..: lib_target("Deadlock_net_dioxus_app", ["cdylib", "rlib"], "C:\\Users\\deads\\OneDrive\\Documents\\AGI\\DEADLOCK-TRANSISTOR\\dioxus-app\\src\\lib.rs", Edition2021) }
+   0.464542500s  INFO prepare_target{force=false package_id=Deadlock-net-dioxus-app v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app) target="Deadlock_net_dioxus_app"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app\target\debug\.fingerprint\Deadlock-net-dioxus-app-e58d1a49b20ac251\lib-Deadlock_net_dioxus_app`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.548403500s  INFO prepare_target{force=false package_id=Deadlock-net-dioxus-app v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app) target="Deadlock_net_dioxus_app"}: cargo::core::compiler::fingerprint: fingerprint error for Deadlock-net-dioxus-app v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app)/Check { test: true }/TargetInner { name_inferred: true, ..: lib_target("Deadlock_net_dioxus_app", ["cdylib", "rlib"], "C:\\Users\\deads\\OneDrive\\Documents\\AGI\\DEADLOCK-TRANSISTOR\\dioxus-app\\src\\lib.rs", Edition2021) }
+   0.548433700s  INFO prepare_target{force=false package_id=Deadlock-net-dioxus-app v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app) target="Deadlock_net_dioxus_app"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app\target\debug\.fingerprint\Deadlock-net-dioxus-app-43cfedbc38cd4903\test-lib-Deadlock_net_dioxus_app`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.549886400s  INFO prepare_target{force=false package_id=Deadlock-net-dioxus-app v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app) target="deadlock-net-dioxus-app-bin"}: cargo::core::compiler::fingerprint: fingerprint error for Deadlock-net-dioxus-app v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app)/Check { test: false }/TargetInner { name: "deadlock-net-dioxus-app-bin", doc: true, ..: with_path("C:\\Users\\deads\\OneDrive\\Documents\\AGI\\DEADLOCK-TRANSISTOR\\dioxus-app\\src\\main.rs", Edition2021) }
+   0.549938500s  INFO prepare_target{force=false package_id=Deadlock-net-dioxus-app v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app) target="deadlock-net-dioxus-app-bin"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app\target\debug\.fingerprint\Deadlock-net-dioxus-app-81210a7696d97f3a\bin-deadlock-net-dioxus-app-bin`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+   0.551027900s  INFO prepare_target{force=false package_id=Deadlock-net-dioxus-app v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app) target="deadlock-net-dioxus-app-bin"}: cargo::core::compiler::fingerprint: fingerprint error for Deadlock-net-dioxus-app v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app)/Check { test: true }/TargetInner { name: "deadlock-net-dioxus-app-bin", doc: true, ..: with_path("C:\\Users\\deads\\OneDrive\\Documents\\AGI\\DEADLOCK-TRANSISTOR\\dioxus-app\\src\\main.rs", Edition2021) }
+   0.551047800s  INFO prepare_target{force=false package_id=Deadlock-net-dioxus-app v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app) target="deadlock-net-dioxus-app-bin"}: cargo::core::compiler::fingerprint:     err: failed to read `C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app\target\debug\.fingerprint\Deadlock-net-dioxus-app-b882360124b2bf22\test-bin-deadlock-net-dioxus-app-bin`
+
+Caused by:
+    The system cannot find the file specified. (os error 2)
+
+Stack backtrace:
+   0: git_midx_writer_dump
+   1: git_midx_writer_dump
+   2: git_midx_writer_dump
+   3: git_midx_writer_dump
+   4: git_filter_source_repo
+   5: git_filter_source_path
+   6: git_filter_source_path
+   7: git_filter_source_path
+   8: git_filter_source_path
+   9: git_filter_source_repo
+  10: git_filter_source_repo
+  11: git_filter_source_repo
+  12: git_filter_source_repo
+  13: git_filter_source_repo
+  14: <unknown>
+  15: <unknown>
+  16: git_midx_writer_dump
+  17: git_filter_source_repo
+  18: git_midx_writer_dump
+  19: BaseThreadInitThunk
+  20: RtlUserThreadStart
+    Checking Deadlock-net-dioxus-app v0.1.0 (C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app)
+error: could not compile `Deadlock-net-dioxus-app` (lib) due to 1 previous error
+warning: build failed, waiting for other jobs to finish...
+error: could not compile `Deadlock-net-dioxus-app` (lib test) due to 1 previous error

@@ -1,0 +1,9 @@
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app\target\debug\deps\manganis_macro-9260f8edeb372327.d: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\manganis-macro-0.7.1\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\manganis-macro-0.7.1\src\asset.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\manganis-macro-0.7.1\src\css_module.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\manganis-macro-0.7.1\src\linker.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\manganis-macro-0.7.1\src\../README.md
+
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app\target\debug\deps\manganis_macro-9260f8edeb372327.dll: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\manganis-macro-0.7.1\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\manganis-macro-0.7.1\src\asset.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\manganis-macro-0.7.1\src\css_module.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\manganis-macro-0.7.1\src\linker.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\manganis-macro-0.7.1\src\../README.md
+
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\manganis-macro-0.7.1\src\lib.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\manganis-macro-0.7.1\src\asset.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\manganis-macro-0.7.1\src\css_module.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\manganis-macro-0.7.1\src\linker.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\manganis-macro-0.7.1\src\../README.md:

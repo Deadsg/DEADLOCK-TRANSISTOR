@@ -1,0 +1,8 @@
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app\target\debug\deps\const_serialize-19e25d17a987d834.d: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\const-serialize-0.7.1\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\const-serialize-0.7.1\src\const_buffers.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\const-serialize-0.7.1\src\const_vec.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\const-serialize-0.7.1\src\../README.md
+
+C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app\target\debug\deps\libconst_serialize-19e25d17a987d834.rmeta: C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\const-serialize-0.7.1\src\lib.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\const-serialize-0.7.1\src\const_buffers.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\const-serialize-0.7.1\src\const_vec.rs C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\const-serialize-0.7.1\src\../README.md
+
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\const-serialize-0.7.1\src\lib.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\const-serialize-0.7.1\src\const_buffers.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\const-serialize-0.7.1\src\const_vec.rs:
+C:\Users\deads\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\const-serialize-0.7.1\src\../README.md:

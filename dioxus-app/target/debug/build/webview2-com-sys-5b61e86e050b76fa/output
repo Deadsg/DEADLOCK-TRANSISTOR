@@ -1,0 +1,2 @@
+cargo:rustc-link-search=native=C:\Users\deads\OneDrive\Documents\AGI\DEADLOCK-TRANSISTOR\dioxus-app\target\debug\build\webview2-com-sys-5b61e86e050b76fa\out\x64
+cargo:rustc-link-lib=advapi32
