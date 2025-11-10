@@ -1,5 +1,5 @@
 [package]
-name = "Deadlock-net-dioxus-app"
+name = "deadlock-net-dioxus-app"
 version = "0.1.0"
 authors = ["deadsg"]
 edition = "2021"
@@ -14,12 +14,13 @@ serde_json = "*"
 dioxus = { version = "*", features = ["desktop"] }
 tokio = { version = "*", features = ["full"], optional = true }
 zeroize = "*"
-dioxus-desktop = "0.7.0"
-pyo3 = { version = "*", features = ["extension-module"], optional = true }
+dioxus-desktop = "*"
+pyo3 = { version = "*", features = ["auto-initialize"], optional = true }
 log = "*"
 env_logger = "*"
 wallet-adapter = { path = "C:/SolanaWalletAdapter-zos/crate" }
+futures = "0.3.31"
 
-[[bin]]
-name = "deadlock-net-dioxus-app-bin"
-path = "src/main.rs"
+[features]
+default = ["pyo3"]
+pyo3 = ["dep:pyo3"]

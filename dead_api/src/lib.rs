@@ -52,7 +52,7 @@ pub mod instruction {
                     AccountMeta::new_readonly(beneficiary, false),
                     AccountMeta::new(bus, false),
                     AccountMeta::new_readonly(MINT_ADDRESS, false),
-                    AccountMeta::new_readonly(SPL_TOKEN_ID, false),
+                    AccountMeta::new_readonly(Pubkey::new_from_array(SPL_TOKEN_ID.to_bytes()), false),
                     AccountMeta::new_readonly(system_program::ID, false),
                 ];
     
