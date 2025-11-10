@@ -1,0 +1,13 @@
+[package]
+name = "dqn_mine"
+version = "0.1.0"
+description = "DQN Mining Program"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "dqn_mine"
+
+[dependencies]
+sha2 = "0.10.8"
+borsh = "0.10.3"
